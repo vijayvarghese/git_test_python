@@ -1,7 +1,13 @@
-def Test():
-    print("Hello")
+a = str()
+def Test(a):
+    print(a)
 
+
+def get():
+    item = input("Enter : ")
+    return item
 
 if __name__ == "__main__":
-    Test()
+    
+    Test(get())
 
