@@ -1,6 +1,6 @@
 a = str()
 def Test(a):
-    print("Hello, ",a)
+    print("Hello, ",a,"Welcome !")
 
 
 def get():
