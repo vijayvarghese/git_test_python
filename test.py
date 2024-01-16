@@ -10,7 +10,7 @@ def get():
     item = input("Enter Name : ")
     return item
 def get2():
-    item = input("Enter a Number : ")
+    item = input("Enter a Number 1-10 : ")
     return item
 
 if __name__ == "__main__":
