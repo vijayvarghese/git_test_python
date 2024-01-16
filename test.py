@@ -1,6 +1,7 @@
 a = str()
 def Test(a):
 <<<<<<< HEAD
+<<<<<<< HEAD
     print(a+10)
 
 
@@ -8,6 +9,9 @@ def get():
     item = input("Enter any Number : ")
 =======
     print("Hello, ",a,"Welcome !")
+=======
+    print("Hello, ",a)
+>>>>>>> parent of 0bea603 (new greeting)
 
 
 def get():
